@@ -4,4 +4,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caroline-cavalcante-84b4724a//)](https://www.linkedin.com/in/fagnerpsantos/)
 
 ### About me
-I'm a {Quality Analyst | Tester }
+I'm a {Quality Analyst(QA) | Tester }
