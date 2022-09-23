@@ -5,3 +5,5 @@
 
 ### About me
 I'm a {Quality Analyst(QA) | Tester }
+
+:email: Contact: caroline.lima21@hotmail.com 
