@@ -5,9 +5,9 @@
 <a href="https://instagram.com/kakaliima_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ### About me
-I'm a {Quality Analyst(QA) | Tester }
+I'm a {Quality Assurance (QA) | Tester }
 
-🌱 I’m currently learning: REST-Assured, Junit, POSTAM, CYPRESS
+🌱 I’m currently learning: Playwright, Cypress
 
 📫 How to reach me: caroline.lima21@hotmail.com 
 
